@@ -1,6 +1,8 @@
 # Network Device Backup Scripts
 
-This repo is a collection of simple scripts to help you automatically backup your network devices. It is released under the GPLv3 license. If you need a version released under a different license, or need commercial support, contact Rootwork InfoTech LLC (https://rootwork.it)
+This repo is a collection of simple scripts to help you automatically backup your network devices. It is released under the GPLv3 license. If you need a version released under a different license, or need commercial support, contact [Rootwork InfoTech LLC](https://rootwork.it).
+
+Further explanation of the concepts can be found in my article [Secure Automated Network Device Backups](https://shocksolution.com/2019/09/03/secure-automated-network-device-backups/). If you have comments or questions, please comment on the article, and feel free to submit a pull request for this repo.
 
 ## Backup Server Configuration
 
